@@ -2,7 +2,7 @@ import pygame
 
 pygame.init()
 window = pygame.display.set_mode((600,600))
-pygame.display.set_caption("~Nekopara~ ver 0.0.0.0.0.0.0.1")
+pygame.display.set_caption("~Baldguy~ ver 0.0.1")
 
 walkRIGHT = pygame.image.load("player/right_nico_01.png"), pygame.image.load("player/right_nico_02.png")
 walkLEFT = pygame.image.load("player/left_nico_01.png"), pygame.image.load("player/left_nico_02.png")
